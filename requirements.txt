@@ -2,3 +2,4 @@ spark-df-profiling
 pandas_profiling
 flask
 statsmodels
+featuretoolsOnSpark
