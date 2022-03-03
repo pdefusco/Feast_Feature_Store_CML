@@ -3,3 +3,4 @@ pandas_profiling
 flask
 statsmodels
 feast-spark-offline-store
+featuretoolsOnSpark
